@@ -26,7 +26,7 @@
     background-color: transparent;
     margin-top: 30px;
     margin-left: 350px;
-    margin-bottom: 150px;
+    margin-bottom: 50px;
 }
 
 .div2 {
@@ -36,6 +36,19 @@
     display: flex;
     align-items: center;
     align-content: center;
+}
+
+.div3 {
+    background-color: transparent;
+    display: flex;
+    align-items: center;
+    align-content: center;
+    margin-left: 350px;
+    margin-bottom: 100px;
+}
+
+.code:hover {
+    background-color: rgb(109, 213, 231);
 }
 
 .a1 {
