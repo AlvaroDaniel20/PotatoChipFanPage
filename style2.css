@@ -4,6 +4,7 @@
 
 .div1 {
     background-color: rgb(37, 84, 214);
+    align-content: center;
     height: 500px;
     width: 900px;
     margin-top: 100px;
@@ -11,7 +12,7 @@
     border: 6px , solid;
     border-radius: 16px;
     box-shadow: 20px 30px 50px;
-    animation: borde 2s infinite;
+    animation: borde 10s infinite;
 }
 
 .testoG {
@@ -43,6 +44,10 @@
     color: black;
     font-size: 20px;
     animation: spam 0.75s infinite;
+}
+
+.a1:hover {
+    color: blue;
 }
 
 @keyframes borde {
